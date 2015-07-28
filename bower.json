@@ -1,0 +1,23 @@
+{
+  "name": "bower-unidecode",
+  "version": "1.0.0",
+  "authors": [
+    "Siriwat Uamngamsup <lazym0m3nt@gmail.com>"
+  ],
+  "description": "Bower version for unidecode",
+  "main": "unidecode.js",
+  "keywords": [
+    "romanization",
+    "transliteration",
+    "unicode"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/noomz/bower-unidecode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
